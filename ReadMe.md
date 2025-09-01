@@ -33,8 +33,8 @@ Ultimately, I aimed to answer the following questions:
 
 In the end, I produced the following:
 * A Jupyter Notebook consisting of my EDA work (including data cleaning, preparation, and visualizations) and machine learning models
-* An [interactive Tableau map](https://public.tableau.com/app/profile/comfort.ohajunwa/viz/WorldHappinessData_17362896398450/WorldHappinessMap) displaying happiness data  ()
-* A [Streamlit tool]((https://worldhappinessreportproject.streamlit.app/)) for predicting happiness scores based on relevant well being factors 
+* An [interactive Tableau map](https://public.tableau.com/app/profile/comfort.ohajunwa/viz/WorldHappinessData_17362896398450/WorldHappinessMap) displaying happiness data
+* A [Streamlit tool](https://worldhappinessreportproject.streamlit.app/) for predicting happiness scores based on relevant well-being factors 
 
 ---
 
